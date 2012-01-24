@@ -10,7 +10,7 @@ www.carast.com
 
   El gobierno méxicano siempre tiene la necesidad de tener sus comunicaciones
   privadas pero con el interes de conocer agendas de trabajo de sus colaboradores,
-  generar una manera de estar en contacto y conocer nuevas personas clave dentro del gobierno
+  generar una manera de estar en contacto y conocer nuevas personas clave dentro del gobierno.
 
   Este es un proyecto creado bajo derechos de autor, los cuales serán colocados 
   en versiones posteriores.
@@ -25,6 +25,7 @@ Requisitos
   jQuery Mobile
   jQUery
   PhoneGap
+  Riak
   Ya que este proyecto es para poder aprender de estas tecnologías durante 6 meses.
 
 Proceso
